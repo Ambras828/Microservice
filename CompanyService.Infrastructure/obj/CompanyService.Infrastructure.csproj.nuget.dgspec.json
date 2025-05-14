@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Application\\CompanyService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Application\\CompanyService.Application.csproj",
+        "projectName": "CompanyService.Application",
+        "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Application\\CompanyService.Application.csproj",
+        "packagesPath": "C:\\Users\\ambras.md\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ambras.md\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj",
+        "projectName": "CompanyService.Domain",
+        "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj",
+        "packagesPath": "C:\\Users\\ambras.md\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ambras.md\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj",
+        "projectName": "CompanyService.Infrastructure",
+        "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Infrastructure\\CompanyService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ambras.md\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ambras.md\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Application\\CompanyService.Application.csproj": {
+                "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Application\\CompanyService.Application.csproj"
+              },
+              "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\CompanyService.Domain\\CompanyService.Domain.csproj"
+              },
+              "C:\\Users\\ambras.md\\source\\repos\\Microservices\\Infrastructure.Shared\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
+                "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\Infrastructure.Shared\\Infrastructure.Shared\\Infrastructure.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ambras.md\\source\\repos\\Microservices\\Infrastructure.Shared\\Infrastructure.Shared\\Infrastructure.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\Infrastructure.Shared\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+        "projectName": "Infrastructure.Shared",
+        "projectPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\Infrastructure.Shared\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+        "packagesPath": "C:\\Users\\ambras.md\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ambras.md\\source\\repos\\Microservices\\Infrastructure.Shared\\Infrastructure.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ambras.md\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

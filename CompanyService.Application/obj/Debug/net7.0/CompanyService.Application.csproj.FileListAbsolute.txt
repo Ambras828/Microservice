@@ -1,0 +1,15 @@
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\bin\Debug\net7.0\CompanyService.Application.deps.json
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\bin\Debug\net7.0\CompanyService.Application.dll
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\bin\Debug\net7.0\CompanyService.Application.pdb
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\bin\Debug\net7.0\CompanyService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\bin\Debug\net7.0\CompanyService.Domain.pdb
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.csproj.AssemblyReference.cache
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.AssemblyInfoInputs.cache
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.AssemblyInfo.cs
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.csproj.CoreCompileInputs.cache
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyS.4B2F81A8.Up2Date
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.dll
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\refint\CompanyService.Application.dll
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\CompanyService.Application.pdb
+C:\Users\ambras.md\source\repos\Microservices\CompanyService.Application\obj\Debug\net7.0\ref\CompanyService.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\bin\Debug\net7.0\CategoryService.Domain.deps.json
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\bin\Debug\net7.0\CategoryService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\bin\Debug\net7.0\CategoryService.Domain.pdb
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\CategoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\CategoryService.Domain.AssemblyInfoInputs.cache
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\CategoryService.Domain.AssemblyInfo.cs
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\CategoryService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\CategoryService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\refint\CategoryService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\CategoryService.Domain.pdb
+C:\Users\ambras.md\source\repos\Microservices\CategoryService.DataAccess\obj\Debug\net7.0\ref\CategoryService.Domain.dll

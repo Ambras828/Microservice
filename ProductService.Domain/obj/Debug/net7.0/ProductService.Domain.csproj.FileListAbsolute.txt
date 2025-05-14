@@ -1,0 +1,11 @@
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\bin\Debug\net7.0\ProductService.Domain.deps.json
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\bin\Debug\net7.0\ProductService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\bin\Debug\net7.0\ProductService.Domain.pdb
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ProductService.Domain.AssemblyInfo.cs
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ProductService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\refint\ProductService.Domain.dll
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ProductService.Domain.pdb
+C:\Users\ambras.md\source\repos\Microservices\ProductService.Domain\obj\Debug\net7.0\ref\ProductService.Domain.dll
